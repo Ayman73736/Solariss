@@ -1,0 +1,9 @@
+/*/////////////////
+    ABOUT PAGE
+/////////////////*/
+
+.about.content {
+    background: url("../img/backgrounds/Founders.jpg") no-repeat fixed;
+    background-size: cover;
+    min-height: 500px;
+}
